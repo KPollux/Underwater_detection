@@ -66,7 +66,7 @@
                smoothing=0.001)
   ```
 
-## 训练集数据集：
+## 训练数据集：
       百度云盘：
       链接：https://pan.baidu.com/s/1a6t8KEFJSLsaBEsXJeVseg 
       提取码：1sc1  
